@@ -1,0 +1,55 @@
+23:10:47.427 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+23:10:47.709 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
+23:11:42.785 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+23:17:59.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\grouping.xml"
+23:17:59.585 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\grouping.xml
+
+23:18:02.808 [main] INFO  testcases.TC_001_AccountRegistrationTest - ************Starting TC_001AccountRegistrationTest
+23:18:02.890 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+23:18:03.233 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+23:18:03.237 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing Customer Details.....
+23:18:03.659 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message...
+23:18:04.773 [main] INFO  testcases.TC_001_AccountRegistrationTest - Finished TC_001AccountRegistrationTest
+23:18:07.482 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+23:18:07.482 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs....
+23:18:07.580 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+23:18:08.056 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+23:18:08.056 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+23:18:08.353 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
+23:19:03.442 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+20:22:50.118 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+20:22:50.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+20:25:41.855 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+20:25:42.068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+20:25:49.330 [main] INFO  testcases.TC_001_AccountRegistrationTest - ************Starting TC_001AccountRegistrationTest
+20:25:49.422 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:25:49.740 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+20:25:49.744 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing Customer Details.....
+20:25:50.297 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message...
+20:25:51.021 [main] INFO  testcases.TC_001_AccountRegistrationTest - Finished TC_001AccountRegistrationTest
+20:25:53.844 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+20:25:53.844 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs....
+20:25:53.932 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+20:25:54.295 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+20:25:54.298 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+20:25:54.604 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
+20:26:49.647 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+20:35:18.092 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+20:35:23.766 [main] INFO  testcases.TC_001_AccountRegistrationTest - ************Starting TC_001AccountRegistrationTest
+20:35:23.871 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:35:24.898 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+20:35:24.901 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing Customer Details.....
+20:35:25.346 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message...
+20:35:26.094 [main] INFO  testcases.TC_001_AccountRegistrationTest - Finished TC_001AccountRegistrationTest
+20:35:29.175 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+20:35:29.176 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs....
+20:35:29.256 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+20:35:29.635 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+20:35:29.636 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+20:35:29.981 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
+20:36:25.044 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
