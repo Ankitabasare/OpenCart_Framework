@@ -1,4 +1,4 @@
-package SearchProduct;
+package Pageobjects;
 
 public class SearchProduct {
 
