@@ -1,0 +1,56 @@
+17:06:48.542 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:06:48.552 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:06:48.557 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\AppData\Local\Temp\testng-eclipse-2007058882\testng-customsuite.xml
+
+17:06:48.571 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+17:06:48.716 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@aeab9a1: 62 ms
+17:06:48.729 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3eeb318f: 13 ms
+17:06:48.741 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4189d70b: 11 ms
+17:06:48.749 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3b7ff809: 8 ms
+17:06:48.753 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6aecbb8d: 4 ms
+17:06:48.754 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1af146: 0 ms
+17:06:56.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:06:56.390 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:07:38.847 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:07:39.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:14:45.549 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:14:45.737 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:15:58.814 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:15:59.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:18:48.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:18:48.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:20:02.755 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+17:20:02.975 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+17:20:06.327 [main] INFO  testcases.TC_001_AccountRegistrationTest - ************Starting TC_001AccountRegistrationTest
+17:20:06.431 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+17:20:06.724 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+17:20:06.726 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing Customer Details.....
+17:20:07.253 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message...

@@ -13,7 +13,8 @@
       
    
         <class name="testcases.TC_001_AccountRegistrationTest"/>
-        <class name="testcases.TC_002_LoginTest"/>
+   <class name="testcases.TC_002_LoginTest"/> 
+        <class name="testcases.TC_003_Search"></class>
      <!--   <class name="testcases.TC003_LoginDDT"/> -->
        
       
