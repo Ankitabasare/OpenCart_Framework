@@ -1,8 +1,17 @@
-17:20:08.463 [main] INFO  testcases.TC_001_AccountRegistrationTest - Finished TC_001AccountRegistrationTest
-17:20:11.012 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
-17:20:11.012 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs....
-17:20:11.133 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
-17:20:11.458 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
-17:20:11.468 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
-17:20:11.817 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
-17:21:06.956 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+22:46:45.140 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml"
+22:46:45.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ankit\eclipse-workspace\OpenCartFramework\master.xml
+
+22:46:49.277 [main] INFO  testcases.TC_001_AccountRegistrationTest - ************Starting TC_001AccountRegistrationTest
+22:46:49.378 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+22:46:49.711 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+22:46:49.715 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing Customer Details.....
+22:46:50.285 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message...
+22:46:50.983 [main] INFO  testcases.TC_001_AccountRegistrationTest - Finished TC_001AccountRegistrationTest
+22:46:53.662 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+22:46:53.662 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs....
+22:46:53.737 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+22:46:54.013 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+22:46:54.015 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+22:46:54.401 [main] INFO  testcases.TC_002_LoginTest - clicked on ligin button..
+22:47:49.466 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****

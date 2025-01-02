@@ -101,7 +101,7 @@ public class BaseClass
 	@AfterClass(groups = {"Sanity","regression","Master","Datadriven"})
 	public void teardown()
 	{
-		//driver.close();
+		driver.close();
 	}
 	public String captureScreen(String tname) {
 		// TODO Auto-generated method stub

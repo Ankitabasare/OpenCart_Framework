@@ -16,8 +16,15 @@ public class TC_003_Search extends BaseClass
 	
 	sp.ClickSearch();
 	
-	Thread.sleep(5000);
+	Thread.sleep(3000);
 	sp.addWishList();
 	
+	Thread.sleep(3000);
+	sp.Click_Add_to_cart();
+
+	// String successMessage = sp.getSuccessMessage();
+     //System.out.println("Captured Success Message: " + successMessage);
+	
+	sp.click_cart();
 	}
 }
